@@ -6,10 +6,10 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 <br>
 
 <b>Visual Dashboard (desktop):</b><br>
-https://arcg.is/0fHmTX
+https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 <br><br>
 <b>Visual Dashboard (mobile):</b><br>
-https://arcg.is/1DPOWm0
+http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 <br><br>
 <b>Lancet Article:</b><br>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
@@ -32,17 +32,16 @@ https://systems.jhu.edu/
 * Australia Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance <br>
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
+* Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 
 <br>
-
 <b>Additional Information about the Visual Dashboard:</b><br>
 https://systems.jhu.edu/research/public-health/ncov/
+<br><br>
 
-<br>
 <b>Contact Us: </b><br>
 * Email: jhusystems@gmail.com
-
-<br>
+<br><br>
 
 <b>Terms of Use:</b><br>
 
