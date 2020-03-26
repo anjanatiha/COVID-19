@@ -4,13 +4,18 @@
 This is the analysis of data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
 ### To see analysis follow the following links:<br>
-Code directory :<br>
+GitHub Code directory :<br>
 https://github.com/anjanatiha/Novel-Corona-Virus-Pandemic-Analysis-and-Modeling/tree/master/Code%20and%20Analysis <br>
 
 Code:<br>
 https://github.com/anjanatiha/Novel-Corona-Virus-Pandemic-Analysis-and-Modeling/blob/master/Code%20and%20Analysis/corona-virus-exploratory-analysis-and-modeling.ipynb <br>
 
-<br>
+### Kaggle Codes:
+Corona Virus Exploratory Analysis and Modeling: <br>
+https://www.kaggle.com/anjanatiha/corona-virus-exploratory-analysis-and-modeling <br>
+
+COVID-19 Exploratory Analysis (Bangladesh):<br>
+https://www.kaggle.com/anjanatiha/covid-19-exploratory-analysis-bangladesh
 
 <b>Visual Dashboard (desktop):</b><br>
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
