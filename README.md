@@ -3,7 +3,7 @@
 
 This is the analysis of data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
-To see Analysis follow the following links:<br>
+### To see analysis follow the following links:<br>
 Code directory :<br>
 https://github.com/anjanatiha/Novel-Corona-Virus-Pandemic-Analysis-and-Modeling/tree/master/Code%20and%20Analysis <br>
 
