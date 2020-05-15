@@ -1,9 +1,5 @@
 <<<<<<< HEAD
 # Analysis on 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
-=======
-# COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
->>>>>>> 25aac6356b14c84112a87fff1488aa4cf927a7ab
-
 
 This is the analysis of data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
@@ -20,6 +16,10 @@ https://www.kaggle.com/anjanatiha/corona-virus-exploratory-analysis-and-modeling
 
 COVID-19 Exploratory Analysis (Bangladesh):<br>
 https://www.kaggle.com/anjanatiha/covid-19-exploratory-analysis-bangladesh
+
+### Full Visualization 
+Contains visualization global data and data of every country
+https://drive.google.com/open?id=1rYfR9LvE1BGrRRNm7PsdadibfRPEu-yu
 
 <b>Visual Dashboard (desktop):</b><br>
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
