@@ -19,7 +19,9 @@ https://www.kaggle.com/anjanatiha/covid-19-exploratory-analysis-bangladesh
 Contains visualization global data and data of every country
 https://drive.google.com/open?id=1rYfR9LvE1BGrRRNm7PsdadibfRPEu-yu
 
-<b>Data Sources:</b><br>
+
+
+### Data Sources:
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
